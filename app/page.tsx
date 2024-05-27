@@ -61,15 +61,27 @@ export default function Page(){
                 <motion.div className='rounded-full absolute y--20 flex top-[-66px] items-center justify-center  bg-lime-500' style={{width:"125px", height:"125px"}} >
                     <p className='text-white text-7xl font-bold '>1</p>
                 </motion.div>
+                <motion.div className='text-center flex flex-col items-center justify-center p-10'>
+                  <p className='text-lg font-bold'>Quick and Easy Application</p>
+                  <p>Start your financing journey with our fast and simple online application. It takes just minutes to complete, allowing you to get pre-approved without any hassle. Say goodbye to long forms and complicated paperwork—our process is designed for your convenience.</p>
+                </motion.div>
               </motion.div>
               <motion.div whileHover={{y:"1vh", transition:{duration:0.8}}}className='bg-gray-100 relative rounded-xl  w-1/3 h-full flex justify-center shadow-xl'>
                 <motion.div className='rounded-full absolute y--20 flex top-[-66px] items-center justify-center  bg-lime-500' style={{width:"125px", height:"125px"}} >
                     <p className='text-white text-7xl font-bold '>2</p>
                 </motion.div>
+                <motion.div className='text-center flex flex-col items-center justify-center p-10'>
+                  <p className='text-lg font-bold'>Customized Financing Offers</p>
+                  <p>Once you apply, we work diligently to find financing options that are perfectly suited to your needs. Enjoy access to competitive rates and flexible terms that fit your budget. Our goal is to provide you with the best possible financing solutions, making it easier to afford your dream Power Sport vehicle.</p>
+                </motion.div>
               </motion.div>
               <motion.div whileHover={{y:"1vh", transition:{duration:0.8}}}className='bg-gray-100 relative rounded-xl  w-1/3 h-full flex justify-center shadow-xl'>
                 <motion.div className='rounded-full absolute y--20 flex top-[-66px] items-center justify-center  bg-lime-500' style={{width:"125px", height:"125px"}} >
                     <p className='text-white text-7xl font-bold '>3</p>
+                </motion.div>
+                <motion.div className='text-center flex flex-col items-center justify-center p-10'>
+                  <p className='text-lg font-bold'>Get on the Road</p>
+                  <p>After securing your financing, you're just a step away from owning your dream Power Sport vehicle. Our streamlined process ensures a smooth transition from application to approval, so you can focus on the excitement of your new ride. Plus, on-time payments can help improve your credit score, making this purchase a win-win for your financial future.</p>
                 </motion.div>
               </motion.div>
              
